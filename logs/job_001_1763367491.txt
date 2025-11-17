@@ -1,0 +1,8 @@
+total 5
+-rwxrwxrwx 1 vagrant vagrant  121 Oct 21 07:52 README.md
+-rwxrwxrwx 1 vagrant vagrant 3804 Nov 17 07:50 Vagrantfile
+drwxrwxrwx 1 vagrant vagrant    0 Nov 17 08:17 data
+drwxrwxrwx 1 vagrant vagrant    0 Nov 17  2025 logs
+-rwxrwxrwx 1 vagrant vagrant   26 Oct 21 03:14 pytest.ini
+drwxrwxrwx 1 vagrant vagrant    0 Nov 17 08:17 src
+drwxrwxrwx 1 vagrant vagrant    0 Nov 17 08:01 tests
